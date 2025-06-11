@@ -4,7 +4,6 @@ email: "stevekariuki5@gmail.com"
 description: >-
   Cybersecurity & Software Engineering Portfolio of Steve Kariuki.
   Focused on secure infrastructure, automation, and cloud technologies.
-twitter_username: # Not provided
 github_username: Steve664
 minimal_mistakes_skin: default
 search: true
@@ -32,7 +31,7 @@ plugins:
 # Author Info
 author:
   name   : "Steve Kariuki"
-  avatar : "/assets/images/your-photo.jpg" # Replace with actual file path
+  avatar : "/assets/images/bio-photo.jpg" # Replace with actual file path
   bio    : "Cybersecurity professional | Secure DevOps | Cloud Security Enthusiast"
   location: "Kenya"
   links:
